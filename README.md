@@ -19,5 +19,4 @@ The number plates are recognised as follows:
 ![car1-detect](/test/detect2.jpg)
 
 References:
-* [pylessons](https://pylessons.com/YOLOv3-custom-data/) - for step by step instructions on how to create your custom dataset and train your model
 * [qqwwee](https://github.com/qqwweee/keras-yolo3) - Keras version of YOLOv3
